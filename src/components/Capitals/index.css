@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.container {
+  background-color: #93c5fd;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub-container {
+  background-color: #f8fafc;
+  border-radius: 15px;
+  padding: 30px;
+  width: 30%;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #000000;
+}
+.input-container {
+  width: 150px;
+  height: 40px;
+  border: 1px solid #cbd2d9;
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #000000;
+  font-weight: 700;
+}
+.label {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #000000;
+  font-weight: 500;
+}
+.country {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #000000;
+  font-weight: 700;
+}
